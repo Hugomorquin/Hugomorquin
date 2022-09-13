@@ -24,6 +24,11 @@ il y a le modèle TCP/IP
 Question 3:
 (ocal Area Network - LAN) est un groupe d’ordinateurs ou périphériques qui sont connectés ensemble sur un meme réseau. Les LAN sont présent dans les maisons, école ou en entreprises.
 
+
 Question 4:
 
 L'adresse Mac (Media Acces Control) d'un périphérisue est l'identité de l'appareil qui permet l'identification. Normalement unique, permettant d'identifier un équipement réseau par rapport à un autre.
+
+ Un bit est la quantité minimale d'information transmise par un message, et constitue à ce titre l' unité de mesure de base de l' information en informatique.
+ 
+ Un octet est un multiplet de 8 bits codant une information 1.
