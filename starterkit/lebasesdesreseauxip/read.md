@@ -22,7 +22,8 @@ il y a le modèle TCP/IP
 ![modele_TCPIP_evolution](https://user-images.githubusercontent.com/112874218/189834587-779b3870-4203-4dde-b20e-822b0e1c5d34.png)
 
 Question 3:
-(ocal Area Network - LAN) est un groupe d’ordinateurs ou périphériques qui sont connectés ensemble sur un meme réseau. Les LAN sont présent dans les maisons, école ou en entreprises.
+
+(Local Area Network - LAN) est un groupe d’ordinateurs ou périphériques qui sont connectés ensemble sur un meme réseau. Les LAN sont présent dans les maisons, école ou en entreprises.
 
 
 Question 4:
@@ -31,4 +32,48 @@ L'adresse Mac (Media Acces Control) d'un périphérisue est l'identité de l'app
 
  Un bit est la quantité minimale d'information transmise par un message, et constitue à ce titre l' unité de mesure de base de l' information en informatique.
  
- Un octet est un multiplet de 8 bits codant une information 1.
+ Un octet est un multiplet de 8 bits codant une information I.
+ 
+ Question 5:
+ 
+ 58(10) = $3A
+ 40(10) = $28
+ 
+ Question 6:
+ 
+ WAN est l’abréviation de Wide Area Network. Ces réseaux s’étendent sur de vastes zones géographiques et relient plusieurs réseaux plus petits comme des LAN (Local Area Networks) ou des MAN (Metropolitan Area Networks). C’est la raison pour laquelle ils sont uniquement utilisés dans un contexte professionnel.
+ 
+  Question 7:
+  
+  192.168.1.1 = 11000000 10101000 00000001 00000001(2)
+  
+  Question 8:
+  
+  les adresses IP 192.168.20.30 ainsi que 192.168.230.1 sont privées
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
