@@ -51,6 +51,35 @@ L'adresse Mac (Media Acces Control) d'un périphérisue est l'identité de l'app
   
   les adresses IP 192.168.20.30 ainsi que 192.168.230.1 sont privées
   
+  Question 9:
+  
+  La notation CIDR de 255.255.255.0 est /24
+  
+  Question 10:
+  
+  DNS signifie Domain Name System est permet la corrélation entre les adresses IP et le nom de domaine associé.
+  
+  Question 11:
+  
+DHCP signifie Dynamic Host Configuration Protocol et c'est un protocole réseau dont le rôle est d’assurer la configuration automatique des paramètres IP d’une station ou d'une machine, notamment en lui attribuant automatiquement une adresse IP et un masque de sous-réseau.  
+
+Question 12:
+![Capture d’écran 2022-09-13 201226](https://user-images.githubusercontent.com/112874218/189978920-fdb0fa9e-7fe7-4e33-ac4f-35ab20933a2c.png)
+
+Question 13:
+
+Question 14:
+
+http port 443: C'est lui qui est utilisé pour gérer les liens hypertextes sur Internet. 
+https port 443: permet de sécuriser la connexion entre le navigateur WEB (client) et le serveur WEB.
+ftp port 21: permettre un partage de fichiers entre machines distantes
+SSH port 22: permet de sécuriser les transferts de fichier, notamment via la commande SCP, le SFTP ou encore le SSHFS
+telnet port 23:c'st un protocole permettant d'émuler un terminal à distance, cela signifie qu'il permet d'exécuter des commandes saisies au clavier sur une machine distante.
+POP port 110: c'est un protocole de relève de mails, à l’instar du serveur IMAP. Il a été conçu pour récupérer les mails d’un serveur et les envoyer vers un ordinateur. 
+smtp port 25: il  est utilisé pour transmettre des messages électroniques sur Internet. 
+
+
+
   
   
  
