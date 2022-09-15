@@ -78,6 +78,25 @@ telnet port 23:c'st un protocole permettant d'émuler un terminal à distance, c
 POP port 110: c'est un protocole de relève de mails, à l’instar du serveur IMAP. Il a été conçu pour récupérer les mails d’un serveur et les envoyer vers un ordinateur. 
 smtp port 25: il  est utilisé pour transmettre des messages électroniques sur Internet. 
 
+Question 15:
+
+pour le depannage ont peut utiliser les commande IPCONFIG, ping, tracert
+![1](https://user-images.githubusercontent.com/112874218/190466921-753b23b3-1bf6-49e0-bafa-204a4e27dfee.png)
+![2](https://user-images.githubusercontent.com/112874218/190466933-7c94c6c3-3a48-48b1-adc5-583fe846a8bf.png)
+
+Question 16:
+
+IPCONFIG = ifconfig -a
+ping = ping -V 
+tracert = $traceroute -4 10 google.com
+
+Question 17:![Capture d’écran 2022-09-15 191756](https://user-images.githubusercontent.com/112874218/190469355-42bb8573-8493-4864-a68a-56cec7db0c46.png)
+
+
+
+
+
+
 
 
   
